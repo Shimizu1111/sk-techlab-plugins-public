@@ -23,6 +23,15 @@
       },
       "source": "./plugins/learn-skills",
       "category": "productivity"
+    },
+    {
+      "name": "launch-service",
+      "description": "SaaS/Webサービス立ち上げに必要な法務・ビジネス・技術面のチェックを対話形式で段階的に進め、ローンチ可否を判定するスキル。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/launch-service",
+      "category": "productivity"
     }
   ]
 }

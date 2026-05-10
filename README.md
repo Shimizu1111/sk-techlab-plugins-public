@@ -18,3 +18,4 @@ claude plugins install learn-claude-code
 |-----------|------|
 | `learn-claude-code` | Claude Codeを30日で使いこなすための学習カリキュラム。1日1トピックずつ進める。 |
 | `learn-skills` | Claude Codeのスラッシュコマンドを30日で全て習得。1日1コマンドずつ学ぶ。 |
+| `launch-service` | SaaS/Webサービス立ち上げに必要な法務・ビジネス・技術面のチェックを対話形式で進め、ローンチ可否を判定。 |
