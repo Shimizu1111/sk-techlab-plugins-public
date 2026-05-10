@@ -9,11 +9,11 @@ SK Tech Lab が公開する Claude Code プラグイン集です。
 claude plugins marketplace add katsu/sk-techlab-plugins-public
 
 # 2. 使いたいプラグインをインストール
-claude plugins install <plugin-name>
+claude plugins install learn-claude-code
 ```
 
 ## プラグイン一覧
 
 | プラグイン | 説明 |
 |-----------|------|
-| (準備中) | |
+| `learn-claude-code` | Claude Codeを30日で使いこなすための学習カリキュラム。1日1トピックずつ進める。 |

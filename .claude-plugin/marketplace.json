@@ -5,5 +5,15 @@
   "owner": {
     "name": "SK Tech Lab"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "learn-claude-code",
+      "description": "Claude Codeを30日で使いこなすための学習カリキュラム。1日1トピックずつ進める。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/learn-claude-code",
+      "category": "productivity"
+    }
+  ]
 }
