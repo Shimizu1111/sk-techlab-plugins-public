@@ -6,7 +6,7 @@ SK Tech Lab が公開する Claude Code プラグイン集です。
 
 ```bash
 # 1. マーケットプレイスを追加（初回のみ）
-claude plugins marketplace add katsu/sk-techlab-plugins-public
+claude plugins marketplace add Shimizu1111/sk-techlab-plugins-public
 
 # 2. 使いたいプラグインをインストール
 claude plugins install learn-claude-code
