@@ -1,0 +1,9 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "sk-techlab-plugins-public",
+  "description": "SK Tech Lab が公開する Claude Code プラグイン集",
+  "owner": {
+    "name": "SK Tech Lab"
+  },
+  "plugins": []
+}
