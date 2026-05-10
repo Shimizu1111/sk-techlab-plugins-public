@@ -17,3 +17,4 @@ claude plugins install learn-claude-code
 | プラグイン | 説明 |
 |-----------|------|
 | `learn-claude-code` | Claude Codeを30日で使いこなすための学習カリキュラム。1日1トピックずつ進める。 |
+| `learn-skills` | Claude Codeのスラッシュコマンドを30日で全て習得。1日1コマンドずつ学ぶ。 |
