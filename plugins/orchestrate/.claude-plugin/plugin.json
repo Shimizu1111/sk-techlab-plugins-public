@@ -1,0 +1,7 @@
+{
+  "name": "orchestrate",
+  "description": "ユーザーの要求を複数タスクに分解し、最適なAI CLIエージェント（Claude Code / Codex / Gemini CLI）に振り分けて並行実行するスキル。",
+  "author": {
+    "name": "SK Tech Lab"
+  }
+}

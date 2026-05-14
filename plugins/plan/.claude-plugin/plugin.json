@@ -1,0 +1,7 @@
+{
+  "name": "plan",
+  "description": "ユーザーのやりたいことを整理し、JSONファイルに保存するタスクプランニングスキル。保存したプランは /orchestrate で実行できる。",
+  "author": {
+    "name": "SK Tech Lab"
+  }
+}

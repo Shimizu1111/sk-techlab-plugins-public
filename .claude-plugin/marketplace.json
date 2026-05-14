@@ -32,6 +32,24 @@
       },
       "source": "./plugins/launch-service",
       "category": "productivity"
+    },
+    {
+      "name": "orchestrate",
+      "description": "ユーザーの要求を複数タスクに分解し、最適なAI CLIエージェント（Claude Code / Codex / Gemini CLI）に振り分けて並行実行するスキル。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/orchestrate",
+      "category": "productivity"
+    },
+    {
+      "name": "plan",
+      "description": "ユーザーのやりたいことを整理し、JSONファイルに保存するタスクプランニングスキル。保存したプランは /orchestrate で実行できる。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/plan",
+      "category": "productivity"
     }
   ]
 }
