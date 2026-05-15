@@ -1,0 +1,7 @@
+{
+  "name": "suggest-features",
+  "description": "コードベースを探索し、既存機能を踏まえて「あるとより良くなる機能」をアイデアとして提案するスキル。",
+  "author": {
+    "name": "SK Tech Lab"
+  }
+}
