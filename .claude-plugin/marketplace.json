@@ -50,6 +50,15 @@
       },
       "source": "./plugins/plan",
       "category": "productivity"
+    },
+    {
+      "name": "find-code-gaps",
+      "description": "コードベースを探索し、未完成・不足機能を一覧で提示するスキル。非ITの人でも理解できる言葉で出力する。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/find-code-gaps",
+      "category": "productivity"
     }
   ]
 }

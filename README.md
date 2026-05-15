@@ -21,3 +21,4 @@ claude plugins install learn-claude-code
 | `launch-service` | SaaS/Webサービス立ち上げに必要な法務・ビジネス・技術面のチェックを対話形式で進め、ローンチ可否を判定。 |
 | `orchestrate` | ユーザーの要求を複数タスクに分解し、最適なAI CLIエージェント（Claude Code / Codex / Gemini CLI）に振り分けて並行実行。 |
 | `plan` | やりたいことを整理してJSONに保存するタスクプランニング。保存したプランは `/orchestrate` で実行可能。 |
+| `find-code-gaps` | コードベースを探索し、未完成・不足機能を一覧で提示。非ITの人でも理解できる言葉で出力。 |
