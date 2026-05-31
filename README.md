@@ -25,7 +25,6 @@ claude plugins install learn-claude-code
 | `suggest-features` | コードベースを探索し、既存機能を踏まえて「あるとより良くなる機能」をアイデアとして提案。 |
 | `obs-audit-context` | Obsidian VaultのCLAUDE.md・_index.md・MEMORY・rulesを監査し、不足があれば構築・修正。 |
 | `security-check` | インターネット公開前のセキュリティチェック。秘密情報漏洩、認証・認可、インジェクション等を網羅的に検査。 |
-| `deploy-claude-to-vps` | ローカルの .claude フォルダをVPSに rsync で同期。dry-runで差分確認後に実行。 |
 | `threads-stock` | 後で語りたいSNS投稿ネタをアカウントごとにストック。インタビューで深掘りする前段階。 |
 | `fb-draft` | 投稿ネタからFacebook投稿ルールに沿った下書き生成。複数パターン・画像プロンプト・投稿前チェック付き。 |
 | `threads-global-research` | 海外のClaude Code活用事例を、ターゲットに刺さる形で調査・翻訳してVaultに蓄積。 |

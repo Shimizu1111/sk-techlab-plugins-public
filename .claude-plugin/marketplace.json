@@ -87,16 +87,7 @@
       "source": "./plugins/security-check",
       "category": "productivity"
     },
-    {
-      "name": "deploy-claude-to-vps",
-      "description": "ローカルの .claude フォルダ（skills等）をVPSに rsync で同期する。dry-runで差分確認後に実行。",
-      "author": {
-        "name": "SK Tech Lab"
-      },
-      "source": "./plugins/deploy-claude-to-vps",
-      "category": "productivity"
-    },
-    {
+{
       "name": "threads-stock",
       "description": "後で語りたいSNS投稿ネタをアカウントごとにストックする軽量スキル。後でインタビューで深掘りする前段階。",
       "author": {

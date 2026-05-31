@@ -1,7 +1,0 @@
-{
-  "name": "deploy-claude-to-vps",
-  "description": "ローカルの .claude フォルダ（skills等）をVPSに rsync で同期する。dry-runで差分確認後に実行。",
-  "author": {
-    "name": "SK Tech Lab"
-  }
-}
