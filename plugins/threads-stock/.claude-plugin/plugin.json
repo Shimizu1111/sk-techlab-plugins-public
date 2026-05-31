@@ -1,0 +1,7 @@
+{
+  "name": "threads-stock",
+  "description": "後で語りたいSNS投稿ネタをアカウントごとにストックする軽量スキル。後でインタビューで深掘りする前段階。",
+  "author": {
+    "name": "SK Tech Lab"
+  }
+}

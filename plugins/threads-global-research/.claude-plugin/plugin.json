@@ -1,0 +1,7 @@
+{
+  "name": "threads-global-research",
+  "description": "海外のClaude Code活用事例を、指定アカウントのターゲットに刺さる形で調査・翻訳してVaultに蓄積する。セグメント別フィルタリング付き。",
+  "author": {
+    "name": "SK Tech Lab"
+  }
+}

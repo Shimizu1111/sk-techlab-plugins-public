@@ -1,0 +1,7 @@
+{
+  "name": "ad-peatix-fetch",
+  "description": "Peatixダッシュボードのスクリーンショットを取得し、AI読み取りでデータを抽出してObsidianに記録する。",
+  "author": {
+    "name": "SK Tech Lab"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "threads-news-research",
+  "description": "Claude Code・AI関連の最新ニュースを、指定アカウントのターゲットに刺さる形で調査してVaultに蓄積する。鮮度と速報性を重視。",
+  "author": {
+    "name": "SK Tech Lab"
+  }
+}

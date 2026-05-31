@@ -68,6 +68,141 @@
       },
       "source": "./plugins/suggest-features",
       "category": "productivity"
+    },
+    {
+      "name": "obs-audit-context",
+      "description": "Obsidian VaultのCLAUDE.md・_index.md・MEMORY・rulesを監査し、不足があれば構築・修正する。2段階ルーティング設計の品質を保つ。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/obs-audit-context",
+      "category": "productivity"
+    },
+    {
+      "name": "security-check",
+      "description": "インターネット公開前のセキュリティチェックを実施する。秘密情報の漏洩、認証・認可、インジェクション攻撃、API通信、依存パッケージ等を網羅的に検査。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/security-check",
+      "category": "productivity"
+    },
+    {
+      "name": "deploy-claude-to-vps",
+      "description": "ローカルの .claude フォルダ（skills等）をVPSに rsync で同期する。dry-runで差分確認後に実行。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/deploy-claude-to-vps",
+      "category": "productivity"
+    },
+    {
+      "name": "threads-stock",
+      "description": "後で語りたいSNS投稿ネタをアカウントごとにストックする軽量スキル。後でインタビューで深掘りする前段階。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/threads-stock",
+      "category": "productivity"
+    },
+    {
+      "name": "fb-draft",
+      "description": "投稿ネタからFacebook投稿ルールに沿った下書きを生成し、投稿確定まで管理するスキル。複数パターン生成・画像プロンプト・投稿前チェック付き。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/fb-draft",
+      "category": "productivity"
+    },
+    {
+      "name": "threads-global-research",
+      "description": "海外のClaude Code活用事例を、指定アカウントのターゲットに刺さる形で調査・翻訳してVaultに蓄積する。セグメント別フィルタリング付き。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/threads-global-research",
+      "category": "productivity"
+    },
+    {
+      "name": "threads-news-research",
+      "description": "Claude Code・AI関連の最新ニュースを、指定アカウントのターゲットに刺さる形で調査してVaultに蓄積する。鮮度と速報性を重視。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/threads-news-research",
+      "category": "productivity"
+    },
+    {
+      "name": "threads-tips-research",
+      "description": "海外のClaude Codeノウハウ・Tips・ベストプラクティスを、指定アカウントのターゲットに刺さる形で調査・翻訳してVaultに蓄積する。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/threads-tips-research",
+      "category": "productivity"
+    },
+    {
+      "name": "ad-peatix-fetch",
+      "description": "Peatixダッシュボードのスクリーンショットを取得し、AI読み取りでデータを抽出してObsidianに記録する。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/ad-peatix-fetch",
+      "category": "productivity"
+    },
+    {
+      "name": "x-draft",
+      "description": "投稿ネタからX投稿ルールに沿った下書きを生成し、投稿確定まで管理するスキル。140文字制限対応・スレッド対応・投稿前チェック付き。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/x-draft",
+      "category": "productivity"
+    },
+    {
+      "name": "threads-draft",
+      "description": "投稿ネタから投稿ルールに沿ったThreads下書きを生成し、投稿確定まで管理するスキル。複数パターン生成・ソース検証・X版同時生成対応。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/threads-draft",
+      "category": "productivity"
+    },
+    {
+      "name": "threads-interview",
+      "description": "対話形式で最近の活動を深掘りし、SNS投稿ネタを発掘するインタビュースキル。Obsidianの日記・ストックから自動リサーチ。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/threads-interview",
+      "category": "productivity"
+    },
+    {
+      "name": "x-analytics",
+      "description": "X投稿のパフォーマンスを分析し、改善提案を出すスキル。ファネル分析・コンテンツ分析・前回比較・投稿ルールへの反映まで。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/x-analytics",
+      "category": "productivity"
+    },
+    {
+      "name": "ad-analysis",
+      "description": "広告データを分析し、レポートをObsidianに蓄積。ファネル分析・ボトルネック特定・打ち手の記録と観測のPDCAサイクルを回す。Meta/X広告API対応。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/ad-analysis",
+      "category": "productivity"
+    },
+    {
+      "name": "youtube-transcript-summary",
+      "description": "YouTube動画の文字起こし＆充実まとめを作成する。自動字幕取得・全文読み切り・具体例とエピソードを省略しない詳細まとめ。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/youtube-transcript-summary",
+      "category": "productivity"
     }
   ]
 }

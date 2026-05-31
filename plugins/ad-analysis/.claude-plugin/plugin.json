@@ -1,0 +1,7 @@
+{
+  "name": "ad-analysis",
+  "description": "広告データを分析し、レポートをObsidianに蓄積。ファネル分析・ボトルネック特定・打ち手の記録と観測のPDCAサイクルを回す。Meta/X広告API対応。",
+  "author": {
+    "name": "SK Tech Lab"
+  }
+}

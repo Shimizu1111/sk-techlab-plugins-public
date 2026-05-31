@@ -1,0 +1,7 @@
+{
+  "name": "threads-draft",
+  "description": "投稿ネタから投稿ルールに沿ったThreads下書きを生成し、投稿確定まで管理するスキル。複数パターン生成・ソース検証・X版同時生成対応。",
+  "author": {
+    "name": "SK Tech Lab"
+  }
+}

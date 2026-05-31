@@ -1,0 +1,7 @@
+{
+  "name": "fb-draft",
+  "description": "投稿ネタからFacebook投稿ルールに沿った下書きを生成し、投稿確定まで管理するスキル。複数パターン生成・画像プロンプト・投稿前チェック付き。",
+  "author": {
+    "name": "SK Tech Lab"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "obs-audit-context",
+  "description": "Obsidian VaultのCLAUDE.md・_index.md・MEMORY・rulesを監査し、不足があれば構築・修正する。2段階ルーティング設計の品質を保つ。",
+  "author": {
+    "name": "SK Tech Lab"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "security-check",
+  "description": "インターネット公開前のセキュリティチェックを実施する。秘密情報の漏洩、認証・認可、インジェクション攻撃、API通信、依存パッケージ等を網羅的に検査。",
+  "author": {
+    "name": "SK Tech Lab"
+  }
+}
