@@ -1,0 +1,7 @@
+{
+  "name": "claude-bansou-report",
+  "description": "受講セッションの文字起こし→まとめ→画像生成→公開ページを一気通貫で作成する。「セッションレポート」「受講まとめ」「セッションまとめ作って」等で発動。",
+  "author": {
+    "name": "SK Tech Lab"
+  }
+}

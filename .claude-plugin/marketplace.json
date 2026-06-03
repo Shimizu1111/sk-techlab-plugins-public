@@ -194,6 +194,15 @@
       },
       "source": "./plugins/youtube-transcript-summary",
       "category": "productivity"
+    },
+    {
+      "name": "claude-bansou-report",
+      "description": "受講セッションの文字起こし→まとめ→画像生成→公開ページを一気通貫で作成する。Notta連携・Codex画像生成・Notion同期対応。",
+      "author": {
+        "name": "SK Tech Lab"
+      },
+      "source": "./plugins/claude-bansou-report",
+      "category": "productivity"
     }
   ]
 }

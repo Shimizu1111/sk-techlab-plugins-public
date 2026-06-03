@@ -37,3 +37,4 @@ claude plugins install learn-claude-code
 | `x-analytics` | X投稿のパフォーマンス分析。ファネル分析・コンテンツ分析・前回比較・改善提案。 |
 | `ad-analysis` | 広告データ分析＋PDCAサイクル。ファネル分析・ボトルネック特定・打ち手管理。Meta/X広告API対応。 |
 | `youtube-transcript-summary` | YouTube動画の文字起こし＆充実まとめ。自動字幕取得・全文読み切り・詳細まとめ。 |
+| `claude-bansou-report` | 受講セッションの文字起こし→まとめ→画像生成→公開ページを一気通貫で作成。Notta連携・Codex画像生成・Notion同期対応。 |
